@@ -50,9 +50,3 @@ To gain industry experience through a **Software Engineering internship**, apply
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waruna-dev&show_icons=true&theme=radical" alt="Waruna-dev's GitHub Stats" />
-</p>
