@@ -1,14 +1,20 @@
 # Hi there, I'm Waruna Viduranga! 👋
 
-I am a **3rd-year Software Engineering Undergraduate.** I am passionate about building clean, efficient applications and solving real-world problems through code.
+🎓 **3rd-year Software Engineering Undergraduate Student**  
+☁️ **Aspiring Cloud Engineer | Backend & Full-Stack Developer**  
 
-- 🔭 **I’m currently working on** ... a **Habit Tracker App** (Android/Kotlin) and refining my **Personal Portfolio**.
-- 🌱 **I’m currently learning** ... **React.js** for modern web development and advanced **Software Architecture** patterns.
-- 👯 **I’m looking to collaborate on** ... beginner-friendly **Open Source** projects, **Java** backend systems, or **Mobile Apps**.
-- 🤔 **I’m looking for help with** ... mastering complex **SQL** queries and advanced **Android UI** animations.
-- 💬 **Ask me about** ... **Java**, **Object-Oriented Programming (OOP)**, **SQL**, and **Kotlin**.
-- 📫 **How to reach me** ... connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or email me at **waruna@example.com**.
-- 😄 **Pronouns** ... He/Him
+I’m passionate about building practical software solutions, learning modern technologies, and continuously improving my skills through real-world projects.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **academic and personal projects** related to web development, backend systems
+- 🌱 I’m currently learning **Cloud Computing (AWS basics) and DevOps fundamentals**  
+- 👯 I’m looking to collaborate on **web-based or open-source student projects**  
+- 🤔 I’m looking for help with **cloud architecture, DevOps best practices, and real-world system design**  
+- 💬 Ask me about **Java, OOP, web development, and student project ideas**  
+- 📫 How to reach me: **warunaviduranga6307@gmail.com**
 
 ---
 
@@ -27,6 +33,26 @@ I am a **3rd-year Software Engineering Undergraduate.** I am passionate about bu
 
 ---
 
+## 🚀 Projects
+
+- 📱 **Android Habit Tracking App** – Mobile app for tracking daily habits  
+- 🌐 **Harsha Fashion** – Full-stack academic projects  
+- 📱 **Flavorly Mobile App** - Mobile app for food recipe app
+
+👉 Check my repositories to see the full project details.
+
+---
+
+## 🎯 Career Goal
+
+My goal is to grow into a **Cloud Engineer**, gain industry experience through internships, and contribute to building **scalable, reliable, and real-world software systems**.
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Waruna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waruna-dev&show_icons=true&theme=radical" alt="Waruna's GitHub Stats" />
 </p>
