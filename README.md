@@ -1,19 +1,19 @@
 # Hi there, I'm Waruna Viduranga! 👋
 
 🎓 **3rd-year Software Engineering Undergraduate Student**  
-☁️ **Aspiring Cloud Engineer | Backend & Full-Stack Developer**  
+💻 **Software Engineering Student | Backend & Full-Stack Development**   
 
-I’m passionate about building practical software solutions, learning modern technologies, and continuously improving my skills through real-world projects.
+I enjoy building practical software solutions, learning modern technologies, and improving my skills through hands-on academic and personal projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **academic and personal projects** related to web development, backend systems
-- 🌱 I’m currently learning **Cloud Computing (AWS basics) and DevOps fundamentals**  
-- 👯 I’m looking to collaborate on **web-based or open-source student projects**  
-- 🤔 I’m looking for help with **cloud architecture, DevOps best practices, and real-world system design**  
-- 💬 Ask me about **Java, OOP, web development, and student project ideas**  
+- 🔭 I’m currently working on **academic and personal projects related to software engineering and web development**  
+- 🌱 I’m currently learning **Java, Spring Boot, REST APIs, and full-stack web development**  
+- 👯 I’m looking to collaborate on **web development and open-source student projects**  
+- 🤔 I’m looking for help with **backend architecture, system design, and best coding practices**  
+- 💬 Ask me about **Java, OOP concepts, database design, and student project development**  
 - 📫 How to reach me: **warunaviduranga6307@gmail.com**
 
 ---
@@ -37,7 +37,7 @@ I’m passionate about building practical software solutions, learning modern te
 
 - 📱 **Android Habit Tracking App** – Mobile app for tracking daily habits  
 - 🌐 **Harsha Fashion** – Full-stack academic projects  
-- 📱 **Flavorly Mobile App** - Mobile app for food recipe app
+- 📱 **Flavorly Mobile App** - Mobile app for food recipes
 
 👉 Check my repositories to see the full project details.
 
@@ -45,7 +45,7 @@ I’m passionate about building practical software solutions, learning modern te
 
 ## 🎯 Career Goal
 
-My goal is to grow into a **Cloud Engineer**, gain industry experience through internships, and contribute to building **scalable, reliable, and real-world software systems**.
+To gain industry experience through a **Software Engineering internship**, apply my academic knowledge in real-world projects, and grow as a professional software engineer.
 
 ---
 
@@ -54,5 +54,5 @@ My goal is to grow into a **Cloud Engineer**, gain industry experience through i
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waruna-dev&show_icons=true&theme=radical" alt="Waruna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waruna-dev&show_icons=true&theme=radical" alt="Waruna-dev's GitHub Stats" />
 </p>
