@@ -14,7 +14,6 @@ I enjoy building practical software solutions, learning modern technologies, and
 - 👯 I’m looking to collaborate on **web development and open-source student projects**  
 - 🤔 I’m looking for help with **backend architecture, system design, and best coding practices**  
 - 💬 Ask me about **Java, OOP concepts, database design, and student project development**  
-- 📫 How to reach me: **warunaviduranga6307@gmail.com**
 
 ---
 
